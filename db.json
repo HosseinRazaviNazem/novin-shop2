@@ -1,0 +1,775 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "احمد العارضی",
+      "username": "Ahmad",
+      "email": "admin@admin.com",
+      "password": "123456",
+      "avatar": "https://avatars.dicebear.com/api/male/mamad.svg",
+      "address": {
+        "country": "ایران",
+        "city": "تبریز",
+        "street": "خیابان امام",
+        "alley": "کوچه بهشتی",
+        "number": 168,
+        "geo": {
+          "lat": "38.066667",
+          "lng": "46.3"
+        }
+      },
+      "phone": "+989143548471",
+      "website": "http://hildegard.org",
+      "company": "آتیه سازان شرق"
+    },
+    {
+      "id": 2,
+      "name": "فرشاد لطفی",
+      "username": "Farshad",
+      "email": "farshad@gmail.com",
+      "password": "Gr365481",
+      "avatar": "https://avatars.dicebear.com/api/male/farshad.svg",
+      "address": {
+        "country": "ایران",
+        "city": "تهران",
+        "street": "خیابان بهشتی",
+        "alley": "کوچه یغما",
+        "number": 25,
+        "geo": {
+          "lat": "31.94",
+          "lng": "51.647778"
+        }
+      },
+      "phone": "+989332548474",
+      "website": "http://chapgars.com",
+      "company": "چاپگرهای متنی"
+    },
+    {
+      "id": 3,
+      "name": "لیلا غلامی",
+      "username": "Leila",
+      "email": "leila@april.biz",
+      "password": "Ti487596",
+      "avatar": "https://avatars.dicebear.com/api/female/leila.svg",
+      "address": {
+        "country": "ایران",
+        "city": "اصفهان",
+        "street": "خیابان دوستی",
+        "alley": "کوچه صفا",
+        "number": 74,
+        "geo": {
+          "lat": "32.6546275",
+          "lng": "51.6679826"
+        }
+      },
+      "phone": "+989215147848",
+      "website": "http://grindal.org",
+      "company": "گریندال"
+    },
+    {
+      "id": 4,
+      "name": "نسترن خدایی",
+      "username": "Nastaran",
+      "email": "nasi@gmail.com",
+      "password": "Ok487526",
+      "avatar": "https://avatars.dicebear.com/api/female/nastaran.svg",
+      "address": {
+        "country": "ایران",
+        "city": "تبریز",
+        "street": "خیابان بهار",
+        "alley": "کوچه شما",
+        "number": 254,
+        "geo": {
+          "lat": "38.066667",
+          "lng": "46.3"
+        }
+      },
+      "phone": "+989387845214",
+      "website": "http://chaldora.org",
+      "company": "چالدورا"
+    },
+    {
+      "id": 5,
+      "name": "سبحان لامعی",
+      "username": "Sobhan",
+      "email": "sobhan@yahoo.com",
+      "password": "Qw845365",
+      "avatar": "https://avatars.dicebear.com/api/male/sobhan.svg",
+      "address": {
+        "country": "ایران",
+        "city": "مشهد",
+        "street": "خیابان امام",
+        "alley": "کوچه خدایی",
+        "number": 619,
+        "geo": {
+          "lat": "38.425117",
+          "lng": "45.769636"
+        }
+      },
+      "phone": "+989354812514",
+      "website": "http://tigland.org",
+      "company": "تیگلند"
+    },
+    {
+      "id": 6,
+      "name": "نسیم بخشی",
+      "username": "Nasim",
+      "email": "nasim@gmail.com",
+      "password": "Pl487596",
+      "avatar": "https://avatars.dicebear.com/api/female/nasim.svg",
+      "address": {
+        "country": "ایران",
+        "city": "شیراز",
+        "street": "خیابان صادقی",
+        "alley": "کوچه شعبانی",
+        "number": 36,
+        "geo": {
+          "lat": "37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+989148574748",
+      "website": "http://hilard.org",
+      "company": "هیلارد"
+    },
+    {
+      "id": 7,
+      "name": "ماهان آقایی",
+      "username": "Mahan",
+      "email": "mahan@yahoo.com",
+      "password": "Mj264875",
+      "avatar": "https://avatars.dicebear.com/api/male/mahan.svg",
+      "address": {
+        "country": "ایران",
+        "city": "تبریز",
+        "street": "خیابان امام",
+        "alley": "کوچه بهشتی",
+        "number": 164,
+        "geo": {
+          "lat": "38.066667",
+          "lng": "46.3"
+        }
+      },
+      "phone": "+989143548471",
+      "website": "http://hildegard.org",
+      "company": "آتیه سازان شرق"
+    },
+    {
+      "id": 8,
+      "name": "شهلا رضایی",
+      "username": "Shahla",
+      "email": "shahla@april.biz",
+      "password": "Mu264879",
+      "avatar": "https://avatars.dicebear.com/api/female/shahla.svg",
+      "address": {
+        "country": "ایران",
+        "city": "تهران",
+        "street": "خیابان ولیعصر",
+        "alley": "کوچه رضایی",
+        "number": 79,
+        "geo": {
+          "lat": "31.94",
+          "lng": "51.647778"
+        }
+      },
+      "phone": "+989365684717",
+      "website": "http://nanoran.org",
+      "company": "نانوران"
+    },
+    {
+      "id": 9,
+      "name": "بهراد میرزایی",
+      "username": "Behrad",
+      "email": "behrad@april.biz",
+      "password": "Ph126354",
+      "avatar": "https://avatars.dicebear.com/api/male/behrad.svg",
+      "address": {
+        "country": "ایران",
+        "city": "تهران",
+        "street": "خیابان ولیعصر",
+        "alley": "کوچه زمانی",
+        "number": 365,
+        "geo": {
+          "lat": "31.94",
+          "lng": "51.647778"
+        }
+      },
+      "phone": "+989145824151",
+      "website": "http://nanoran.org",
+      "company": "نانوران"
+    },
+    {
+      "id": 10,
+      "name": "امین رضوانی",
+      "username": "Amin",
+      "email": "amin@gmail.com",
+      "password": "Qw487965",
+      "avatar": "https://avatars.dicebear.com/api/male/amin.svg",
+      "address": {
+        "country": "ایران",
+        "city": "تبریز",
+        "street": "خیابان شمس تبریزی",
+        "alley": "کوچه رضوانی",
+        "number": 54,
+        "geo": {
+          "lat": "38.066667",
+          "lng": "46.3"
+        }
+      },
+      "phone": "+9371452585",
+      "website": "http://chaldora.org",
+      "company": "چالدورا"
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": "5",
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 6,
+      "brand": "Samsung",
+      "categoryId": 1001,
+      "category": "موبایل",
+      "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg",
+      "images": ["https://dummyjson.com/image/i/products/3/1.jpg"]
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "APPle",
+      "categoryId": 1002,
+      "category": "لپتاپ",
+      "thumbnail": "https://dummyjson.com/image/i/products/6/thumbnail.png",
+      "images": ["https://dummyjson.com/image/i/products/6/1.png", "https://dummyjson.com/image/i/products/6/2.jpg", "https://dummyjson.com/image/i/products/6/3.png", "https://dummyjson.com/image/i/products/6/4.jpg"]
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "categoryId": 1002,
+      "category": "لپتاپ",
+      "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
+      "images": ["https://dummyjson.com/image/i/products/7/1.jpg", "https://dummyjson.com/image/i/products/7/2.jpg", "https://dummyjson.com/image/i/products/7/3.jpg", "https://dummyjson.com/image/i/products/7/thumbnail.jpg"]
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "categoryId": 1002,
+      "category": "لپتاپ",
+      "thumbnail": "https://dummyjson.com/image/i/products/8/thumbnail.jpg",
+      "images": ["https://dummyjson.com/image/i/products/8/1.jpg", "https://dummyjson.com/image/i/products/8/2.jpg", "https://dummyjson.com/image/i/products/8/3.jpg", "https://dummyjson.com/image/i/products/8/4.jpg", "https://dummyjson.com/image/i/products/8/thumbnail.jpg"]
+    },
+    {
+      "id": 9,
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "categoryId": 1002,
+      "category": "لپتاپ",
+      "thumbnail": "https://dummyjson.com/image/i/products/9/thumbnail.jpg",
+      "images": ["https://dummyjson.com/image/i/products/9/1.jpg", "https://dummyjson.com/image/i/products/9/2.png", "https://dummyjson.com/image/i/products/9/3.png", "https://dummyjson.com/image/i/products/9/4.jpg", "https://dummyjson.com/image/i/products/9/thumbnail.jpg"]
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "categoryId": 1002,
+      "category": "لپتاپ",
+      "thumbnail": "https://dummyjson.com/image/i/products/10/thumbnail.jpeg",
+      "images": ["https://dummyjson.com/image/i/products/10/1.jpg", "https://dummyjson.com/image/i/products/10/2.jpg", "https://dummyjson.com/image/i/products/10/3.jpg", "https://dummyjson.com/image/i/products/10/thumbnail.jpeg"]
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "products": [
+        {
+          "id": 1,
+          "title": "iPhone 9",
+          "price": 20,
+          "quantity": 3,
+          "total": 60,
+          "discountPercentage": 8.71,
+          "discountedPrice": 55
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "price": 29,
+          "quantity": 2,
+          "total": 58,
+          "discountPercentage": 3.19,
+          "discountedPrice": 56
+        },
+        {
+          "id": 9,
+          "title": "Infinix INBOOK",
+          "price": 40,
+          "quantity": 2,
+          "total": 80,
+          "discountPercentage": 13.1,
+          "discountedPrice": 70
+        },
+        {
+          "id": 17,
+          "title": "Tree Oil 30ml",
+          "price": 930,
+          "quantity": 1,
+          "total": 930,
+          "discountPercentage": 17.67,
+          "discountedPrice": 766
+        },
+        {
+          "id": 20,
+          "title": "Freckle Treatment Cream- 15gm",
+          "price": 600,
+          "quantity": 2,
+          "total": 1200,
+          "discountPercentage": 17.2,
+          "discountedPrice": 994
+        }
+      ],
+      "total": 2328,
+      "discountedTotal": 1941,
+      "userId": 3,
+      "totalProducts": 5,
+      "totalQuantity": 10,
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "products": [
+        {
+          "id": 1,
+          "title": "iPhone 9",
+          "price": 30,
+          "quantity": 2,
+          "total": 60,
+          "discountPercentage": 14.89,
+          "discountedPrice": 51
+        },
+        {
+          "id": 20,
+          "title": "Freckle Treatment Cream- 15gm",
+          "price": 569,
+          "quantity": 3,
+          "total": 1707,
+          "discountPercentage": 13.63,
+          "discountedPrice": 1474
+        },
+        {
+          "id": 18,
+          "title": "Oil Free Moisturizer 100ml",
+          "price": 1099,
+          "quantity": 1,
+          "total": 1099,
+          "discountPercentage": 11.83,
+          "discountedPrice": 969
+        },
+        {
+          "id": 17,
+          "title": "Tree Oil 30ml",
+          "price": 19,
+          "quantity": 1,
+          "total": 19,
+          "discountPercentage": 13.31,
+          "discountedPrice": 16
+        },
+        {
+          "id": 14,
+          "title": "Non-Alcoholic Concentrated Perfume Oil",
+          "price": 46,
+          "quantity": 3,
+          "total": 138,
+          "discountPercentage": 16.44,
+          "discountedPrice": 115
+        }
+      ],
+      "total": 3023,
+      "discountedTotal": 2625,
+      "userId": 8,
+      "totalProducts": 5,
+      "totalQuantity": 10,
+      "createdAt": "2021-07-01T00:00:00.000Z",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "products": [
+        {
+          "id": 12,
+          "title": "Brown Perfume",
+          "price": 50,
+          "quantity": 2,
+          "total": 100,
+          "discountPercentage": 12.05,
+          "discountedPrice": 88
+        },
+        {
+          "id": 11,
+          "title": "perfume Oil",
+          "price": 45,
+          "quantity": 3,
+          "total": 135,
+          "discountPercentage": 17.75,
+          "discountedPrice": 111
+        },
+        {
+          "id": 10,
+          "title": "HP Pavilion 15-DK1056WM",
+          "price": 57,
+          "quantity": 3,
+          "total": 171,
+          "discountPercentage": 9.03,
+          "discountedPrice": 156
+        },
+        {
+          "id": 9,
+          "title": "Infinix INBOOK",
+          "price": 19,
+          "quantity": 1,
+          "total": 19,
+          "discountPercentage": 10.1,
+          "discountedPrice": 17
+        },
+        {
+          "id": 7,
+          "title": "Samsung Galaxy Book",
+          "price": 35,
+          "quantity": 1,
+          "total": 35,
+          "discountPercentage": 11.08,
+          "discountedPrice": 31
+        }
+      ],
+      "total": 460,
+      "discountedTotal": 403,
+      "userId": 10,
+      "totalProducts": 5,
+      "totalQuantity": 10,
+      "createdAt": "2022-04-01T00:00:00.000Z",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "products": [
+        {
+          "id": 7,
+          "title": "Samsung Galaxy Book",
+          "price": 90,
+          "quantity": 1,
+          "total": 90,
+          "discountPercentage": 10.89,
+          "discountedPrice": 80
+        },
+        {
+          "id": 6,
+          "title": "MacBook Pro",
+          "price": 46,
+          "quantity": 3,
+          "total": 138,
+          "discountPercentage": 10.2,
+          "discountedPrice": 124
+        }
+      ],
+      "total": 553,
+      "discountedTotal": 493,
+      "userId": 2,
+      "totalProducts": 5,
+      "totalQuantity": 10,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    },
+    {
+      "id": 5,
+      "products": [
+        {
+          "id": 4,
+          "title": "OPPOF19",
+          "price": 14,
+          "quantity": 3,
+          "total": 42,
+          "discountPercentage": 8.04,
+          "discountedPrice": 39
+        }
+      ],
+      "total": 844,
+      "discountedTotal": 745,
+      "userId": 3,
+      "totalProducts": 5,
+      "totalQuantity": 10,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    },
+    {
+      "id": 6,
+      "products": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "price": 35,
+          "quantity": 3,
+          "total": 105,
+          "discountPercentage": 7.54,
+          "discountedPrice": 97
+        }
+      ],
+      "total": 1454,
+      "discountedTotal": 1276,
+      "userId": 4,
+      "totalProducts": 5,
+      "totalQuantity": 12,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    },
+    {
+      "id": 7,
+      "products": [
+        {
+          "id": 2,
+          "title": "iPhone X",
+          "price": 120,
+          "quantity": 1,
+          "total": 120,
+          "discountPercentage": 7.14,
+          "discountedPrice": 111
+        },
+        {
+          "id": 1,
+          "title": "iPhone 9",
+          "price": 45,
+          "quantity": 2,
+          "total": 90,
+          "discountPercentage": 17.75,
+          "discountedPrice": 74
+        }
+      ],
+      "total": 588,
+      "discountedTotal": 519,
+      "userId": 5,
+      "totalProducts": 5,
+      "totalQuantity": 10,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    },
+    {
+      "id": 8,
+      "products": [
+        {
+          "id": 2,
+          "title": "iPhone X",
+          "price": 50,
+          "quantity": 1,
+          "total": 50,
+          "discountPercentage": 5.07,
+          "discountedPrice": 47
+        }
+      ],
+      "total": 1129,
+      "discountedTotal": 952,
+      "userId": 1,
+      "totalProducts": 5,
+      "totalQuantity": 9,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    },
+    {
+      "id": 9,
+      "products": [
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "price": 57,
+          "quantity": 3,
+          "total": 171,
+          "discountPercentage": 11.19,
+          "discountedPrice": 152
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "price": 1099,
+          "quantity": 3,
+          "total": 3297,
+          "discountPercentage": 6.18,
+          "discountedPrice": 3093
+        }
+      ],
+      "total": 3608,
+      "discountedTotal": 3371,
+      "userId": 2,
+      "totalProducts": 5,
+      "totalQuantity": 10,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    },
+    {
+      "id": 10,
+      "products": [
+        {
+          "id": 7,
+          "title": "Samsung Galaxy Book",
+          "price": 68,
+          "quantity": 1,
+          "total": 68,
+          "discountPercentage": 14.87,
+          "discountedPrice": 58
+        },
+        {
+          "id": 9,
+          "title": "Infinix INBOOK",
+          "price": 600,
+          "quantity": 1,
+          "total": 600,
+          "discountPercentage": 17.2,
+          "discountedPrice": 497
+        }
+      ],
+      "total": 9064,
+      "discountedTotal": 8205,
+      "userId": 7,
+      "totalProducts": 5,
+      "totalQuantity": 9,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    },
+    {
+      "id": 11,
+      "products": [
+        {
+          "id": 10,
+          "title": "HP Pavilion 15-DK1056WM",
+          "price": 46,
+          "quantity": 3,
+          "total": 138,
+          "discountPercentage": 14.65,
+          "discountedPrice": 118
+        }
+      ],
+      "total": 581,
+      "discountedTotal": 502,
+      "userId": 3,
+      "totalProducts": 5,
+      "totalQuantity": 12,
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "status": "done"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1001,
+      "name": "کالای دیجیتال",
+      "subcategories": [
+        {
+          "id": 1001,
+          "name": "موبایل"
+        },
+        {
+          "id": 1002,
+          "name": "لپتاپ"
+        },
+        {
+          "id": 1003,
+          "name": "تبلت"
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "آرایشی بهداشتی",
+      "subcategories": [
+        {
+          "id": 1004,
+          "name": "کفش"
+        },
+        {
+          "id": 1005,
+          "name": "کیف"
+        },
+        {
+          "id": 1006,
+          "name": " لوازم آرایشی"
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "غذا",
+      "subcategories": [
+        {
+          "id": 1007,
+          "name": "سبزیجات"
+        },
+        {
+          "id": 1008,
+          "name": "میوه"
+        },
+        {
+          "id": 1009,
+          "name": "گوشت"
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "name": "کتاب ها",
+      "subcategories": [
+        {
+          "id": 1010,
+          "name": "رمان"
+        },
+        {
+          "id": 1011,
+          "name": "مجله"
+        },
+        {
+          "id": 1012,
+          "name": "سینما"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "دیگر دسته بندی ها",
+      "subcategories": [
+        {
+          "id": 13,
+          "name": "لوازم خانگی"
+        },
+        {
+          "id": 14,
+          "name": "لوازم اداری"
+        }
+      ]
+    }
+  ]
+}

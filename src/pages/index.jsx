@@ -1,0 +1,11 @@
+export {default as AboutUs} from './AboutUs/AboutUs.page';
+export {default as Basket} from './Basket/Basket.page';
+export {default as CheckOut} from './CheckOut/CheckOut.page';
+export {default as Home} from "./Home/Home.page";
+export {default as LoginPage} from './LoginPage/LoginPage.page';
+export {default as NotFound} from './NotFound/NotFound.page';
+export {default as PanelProduct} from './PanelProduct/PanelProduct.page';
+export {default as PanelQuantity} from './PanelQuantity/PanelQuantity.page';
+export {default as PayResult} from './PayResult/PayResult.page';
+export {default as Product} from './Product/Product.page';
+export {default as Products} from './Products/Products.page';
