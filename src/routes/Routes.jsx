@@ -1,8 +1,8 @@
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import { Route, Routes} from "react-router-dom";
 import UserLayout from "../layout/User/UserLayout";
 import AdminLayout from "../layout/Maneger/AdminLayout";
 import SideBarLayout from "../layout/User/SideBarLayout";
-import RTL from "../components/rtl/rtl.component";
+
 import {
     Basket,
     AboutUs,
@@ -19,8 +19,8 @@ import {
 
 function Router() {
     return (
-        <BrowserRouter>
-            <RTL>
+   
+           
                 <Routes>
                     <Route path="/" element={<UserLayout/>}>
                         <Route index element={<Home/>}/>
@@ -28,6 +28,8 @@ function Router() {
                         <Route path="checkout" element={<CheckOut/>}/>
                         <Route path="payresult" element={<PayResult/>}/>
                         <Route path="about" element={<AboutUs/>}/>
+                        <Route path="/loginpage" element={<LoginPage/>}/>
+                        <Route path="/panelproduct" element={<PanelProduct/>}/>
                     </Route>
                     <Route path="/products" element={<SideBarLayout/>}>
                         <Route index element={<Products/>}/>
@@ -37,13 +39,13 @@ function Router() {
                         <Route path="panelproduct" element={<PanelProduct/>}/>
                     </Route>
                     <Route>
-                        <Route path="/loginpage" element={<LoginPage/>}/>
+                       
                         <Route path="/product" element={<Product/>}/>
                     </Route>
                     <Route path="/*" element={<NotFound/>}/>
                 </Routes>
-            </RTL>
-        </BrowserRouter>
+         
+
     );
 }
 
